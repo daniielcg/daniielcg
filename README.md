@@ -9,7 +9,7 @@
 ## About Me
 - **Creative:** I love creating new things, especially in the world of programming. Whether it's animations, interactive websites, or new features, I thrive on making innovative solutions.
 - **Programmer at Heart:** I'm constantly improving my skills in technologies like JavaScript, Node.js, and Firebase, with a passion for solving complex problems and exploring new programming concepts.
-   **Always Innovating:** I enjoy experimenting with new technologies and frameworks to build modern, scalable solutions. I'm constantly looking for ways to push boundaries in my projects.
+- **Always Innovating:** I enjoy experimenting with new technologies and frameworks to build modern, scalable solutions. I'm constantly looking for ways to push boundaries in my projects.
 
 ---
 
