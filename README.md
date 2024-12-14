@@ -7,9 +7,9 @@
 ---
 
 ## About Me
-- **Creative:** I love creating new things, especially in the world of programming. Whether it's animations, interactive websites, or new features, I thrive on making innovative solutions.
-- **Programmer at Heart:** I'm constantly improving my skills in technologies like JavaScript, Node.js, and Firebase, with a passion for solving complex problems and exploring new programming concepts.
-- **Always Innovating:** I enjoy experimenting with new technologies and frameworks to build modern, scalable solutions. I'm constantly looking for ways to push boundaries in my projects.
+- **Innovative Mindset**: I'm driven by the excitement of solving complex problems and creating solutions that make a difference. Whether it's through crafting animations, designing interactive web applications, or exploring new frameworks, I aim to bring fresh ideas to life in every project.
+- **Passionate Programmer**: With a deep love for coding, I constantly strive to enhance my knowledge and skills in technologies like JavaScript, Node.js, Firebase, and more. I focus on writing clean, efficient code and building applications that offer meaningful, user-friendly experiences.
+- **Forward-Thinking Creator**: I’m always experimenting with emerging technologies, pushing boundaries to build scalable, innovative solutions. I thrive on learning and evolving, and I seek to bring my creativity and technical expertise together to shape the future of software development.
 
 ---
 
@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -28,7 +27,7 @@
 
 ## Featured Projects
 ### **Book Swap - An innovative marketplace**
-A platform where book lovers can exchange used books with features like:
+A platform where book lovers can exchange books with features like:
 - **Login and registration** with Firebase.
 - **Book listings** with advanced filters.
 - **Interactive chat** between users.
@@ -40,8 +39,8 @@ A platform where book lovers can exchange used books with features like:
 
 ## 📬 How to Contact Me
 <div align="center">
-  <a href="mailto:daniiellcg.com">
-    <img src="https://img.shields.io/badge/-danielcatgon04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:daniiellcg@gmail.com">
+    <img src="https://img.shields.io/badge/-daniiellcg@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="(https://github.com/daniielcg)">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
