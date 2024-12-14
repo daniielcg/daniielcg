@@ -14,6 +14,7 @@
 - **Forward-Thinking Creator**: I’m always experimenting with emerging technologies, pushing boundaries to build scalable, innovative solutions. I thrive on learning and evolving, and I seek to bring my creativity and technical expertise together to shape the future of software development.
 
 
+<br><br>
 
 
 ## Technologies I Use
@@ -27,7 +28,7 @@
 </div>
 
 
-
+<br><br>
 
 
 ## Featured Projects
@@ -41,7 +42,7 @@ A platform where book lovers can exchange books with features like:
 > *Still under development!*
 
 
-
+<br><br>
 
 
 ## How to Contact Me
@@ -55,7 +56,7 @@ A platform where book lovers can exchange books with features like:
 </div>
 
 
-
+<br><br>
 
 
 ## GitHub Stats
@@ -64,7 +65,7 @@ A platform where book lovers can exchange books with features like:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniielcg&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
 </div>
 
-
+<br><br>
 
 
 **Thanks for visiting my profile!** 
