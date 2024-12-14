@@ -1,20 +1,19 @@
-<h1 align="center">👋 Olá! Eu sou o Daniel Gonçalves 🚀</h1>
+<h1 align="center">Hello! I'm Daniel Gonçalves</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2AA9F7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Apaixonado+por+Tecnologia;Criador+do+Book+Swap+Marketplace;Amante+de+Anima%C3%A7%C3%B5es+e+Designs+Din%C3%A2micos!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2AA9F7&center=true&vCenter=true&width=500&lines=Passionate+Developer+for+Technology;Creator+of+Book+Swap+Marketplace;Lover+of+Animations+and+Dynamic+Designs!" alt="Typing animation" />
 </p>
 
 ---
 
-## ✨ Sobre mim
-- 🛠 **Criador do Marketplace:** Atualmente trabalho no **Book Swap**, um projeto que permite a troca de livros usados com funcionalidades como chat, filtros e animações.
-- 🎨 **Criativo:** Adoro criar animações, como bolas de basquete a fazer cestos, foguetes a explorar galáxias e muito mais.
-- 📚 **Estudioso:** Sou dedicado à matemática e programação, explorando conceitos como fractais e progressões.
-- 🔥 **Inovador:** Gosto de combinar ferramentas como Firebase, MongoDB Atlas e Node.js para criar soluções modernas.
+## ✨ About Me
+- 🎨 **Creative:** I love creating animations like basketballs scoring, rockets exploring galaxies, and much more.
+- 📚 **Studious:** I'm dedicated to mathematics and programming, exploring concepts like fractals and progressions.
+- 🔥 **Innovative:** I enjoy combining tools like Firebase, MongoDB Atlas, and Node.js to build modern solutions.
 
 ---
 
-## 🛠 Tecnologias que uso frequentemente
+## 🛠 Technologies I Use
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
@@ -27,25 +26,19 @@
 
 ---
 
-## 🌟 Destaques dos meus projetos
-### 📚 **Book Swap - Um marketplace inovador**
-Um lugar onde os amantes de livros podem trocar livros usados, oferecendo:
-- **Login e registro** com Firebase.
-- **Listagens de livros** com filtros avançados.
-- **Chat interativo** entre utilizadores.
-- **Gestão de anúncios:** Crie, edite e remova postagens facilmente.
+## 🌟 Featured Projects
+### 📚 **Book Swap - An innovative marketplace**
+A platform where book lovers can exchange used books with features like:
+- **Login and registration** with Firebase.
+- **Book listings** with advanced filters.
+- **Interactive chat** between users.
+- **Ad management:** Create, edit, and remove posts easily.
 
-> 🚧 *Ainda em desenvolvimento!*
-
----
-
-### 🎨 **Animações criativas**
-1. **Bola de basquete:** Uma bola dribla, faz cesto e as estrelas brilham!
-2. **Foguete no espaço:** Um foguete viaja pelo cosmos e é capturado por um OVNI.
+> 🚧 *Still under development!*
 
 ---
 
-## 📬 Como me contactar?
+## 📬 How to Contact Me
 <div align="center">
   <a href="mailto:danielcatgon04@gmail.com">
     <img src="https://img.shields.io/badge/-danielcatgon04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -57,7 +50,7 @@ Um lugar onde os amantes de livros podem trocar livros usados, oferecendo:
 
 ---
 
-## 🧮 Estatísticas do GitHub
+## 🧮 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielcatgon04&show_icons=true&theme=tokyonight&hide=stars" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcatgon04&layout=compact&theme=tokyonight" alt="Top Langs" />
@@ -65,5 +58,6 @@ Um lugar onde os amantes de livros podem trocar livros usados, oferecendo:
 
 ---
 
-**Obrigado por visitar o meu perfil!** 😄  
-Se gostou do que viu, sinta-se à vontade para explorar os meus projetos ou entrar em contacto. 🚀
+**Thanks for visiting my profile!** 😄  
+Feel free to explore my projects or reach out to me. 🚀
+
