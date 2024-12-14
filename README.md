@@ -8,7 +8,7 @@
 
 ## About Me
 - **Innovative Mindset**: I'm driven by the excitement of solving complex problems and creating solutions that make a difference. Whether it's through crafting animations, designing interactive web applications, or exploring new frameworks, I aim to bring fresh ideas to life in every project.
-- **Passionate Programmer**: With a deep love for coding, I constantly strive to enhance my knowledge and skills in technologies like JavaScript, Node.js, Firebase, and more. I focus on writing clean, efficient code and building applications that offer meaningful, user-friendly experiences.
+- **Passionate Programmer**: With a deep love for coding, I constantly strive to enhance my knowledge and skills in technologies like JavaScript, Python, Firebase, and more. I focus on writing clean, efficient code and building applications that offer meaningful, user-friendly experiences.
 - **Forward-Thinking Creator**: I’m always experimenting with emerging technologies, pushing boundaries to build scalable, innovative solutions. I thrive on learning and evolving, and I seek to bring my creativity and technical expertise together to shape the future of software development.
 
 ---
