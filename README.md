@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </div>
 
 ---
@@ -57,6 +57,6 @@ A platform where book lovers can exchange books with features like:
 
 ---
 
-**Thanks for visiting my profile!** 😄  
-Feel free to explore my projects or reach out to me. 🚀
+**Thanks for visiting my profile!** 
+Feel free to explore my projects or reach out to me. 
 
