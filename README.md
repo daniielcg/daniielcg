@@ -51,8 +51,8 @@ A platform where book lovers can exchange books with features like:
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniielcg&show_icons=true&theme=tokyonight&hide=stars" alt="GitHub Stats" width="400" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniielcg&layout=compact&theme=tokyonight" alt="Top Langs" width="400" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=daniielcg&show_icons=true&theme=tokyonight&hide=stars" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniielcg&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
 </div>
 
 ---
