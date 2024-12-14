@@ -1,15 +1,15 @@
 <h1 align="center">Hello! I'm Daniel Gonçalves</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2AA9F7&center=true&vCenter=true&width=500&lines=Passionate+Developer+for+Technology;Creator+of+Book+Swap+Marketplace;Lover+of+Animations+and+Dynamic+Designs!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2AA9F7&center=true&vCenter=true&width=500&lines=Software+Engineer;Passionate+about+Programming;Always+Creating+Something+New" alt="Typing animation" />
 </p>
 
 ---
 
 ## ✨ About Me
-- 🎨 **Creative:** I love creating animations like basketballs scoring, rockets exploring galaxies, and much more.
-- 📚 **Studious:** I'm dedicated to mathematics and programming, exploring concepts like fractals and progressions.
-- 🔥 **Innovative:** I enjoy combining tools like Firebase, MongoDB Atlas, and Node.js to build modern solutions.
+- 🎨 **Creative:** I love creating new things, especially in the world of programming. Whether it's animations, interactive websites, or new features, I thrive on making innovative solutions.
+- 📚 **Programmer at Heart:** I'm constantly improving my skills in technologies like JavaScript, Node.js, and Firebase, with a passion for solving complex problems and exploring new programming concepts.
+- 💡 **Always Innovating:** I enjoy experimenting with new technologies and frameworks to build modern, scalable solutions. I'm constantly looking for ways to push boundaries in my projects.
 
 ---
 
