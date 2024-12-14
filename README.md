@@ -56,7 +56,6 @@ A platform where book lovers can exchange books with features like:
 </div>
 
 ---
-
 **Thanks for visiting my profile!** 
-Feel free to explore my projects or reach out to me. 
+<p>Feel free to explore my projects or reach out to me.</p>
 
