@@ -1,15 +1,15 @@
 <h1 align="center">Hello! I'm Daniel Gonçalves</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2AA9F7&center=true&vCenter=true&width=500&lines=Software+Engineer;Passionate+about+Programming;Always+Creating+Something+New" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Software+Engineer;Passionate+about+Programming;Always+Creating+Something+New" alt="Typing animation" />
 </p>
 
 ---
 
-## ✨ About Me
-- 🎨 **Creative:** I love creating new things, especially in the world of programming. Whether it's animations, interactive websites, or new features, I thrive on making innovative solutions.
-- 📚 **Programmer at Heart:** I'm constantly improving my skills in technologies like JavaScript, Node.js, and Firebase, with a passion for solving complex problems and exploring new programming concepts.
-- 💡 **Always Innovating:** I enjoy experimenting with new technologies and frameworks to build modern, scalable solutions. I'm constantly looking for ways to push boundaries in my projects.
+## About Me
+- **Creative:** I love creating new things, especially in the world of programming. Whether it's animations, interactive websites, or new features, I thrive on making innovative solutions.
+- **Programmer at Heart:** I'm constantly improving my skills in technologies like JavaScript, Node.js, and Firebase, with a passion for solving complex problems and exploring new programming concepts.
+   **Always Innovating:** I enjoy experimenting with new technologies and frameworks to build modern, scalable solutions. I'm constantly looking for ways to push boundaries in my projects.
 
 ---
 
@@ -26,24 +26,24 @@
 
 ---
 
-## 🌟 Featured Projects
-### 📚 **Book Swap - An innovative marketplace**
+## Featured Projects
+### **Book Swap - An innovative marketplace**
 A platform where book lovers can exchange used books with features like:
 - **Login and registration** with Firebase.
 - **Book listings** with advanced filters.
 - **Interactive chat** between users.
 - **Ad management:** Create, edit, and remove posts easily.
 
-> 🚧 *Still under development!*
+> *Still under development!*
 
 ---
 
 ## 📬 How to Contact Me
 <div align="center">
-  <a href="mailto:danielcatgon04@gmail.com">
+  <a href="mailto:daniiellcg.com">
     <img src="https://img.shields.io/badge/-danielcatgon04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/danielcatgon04">
+  <a href="(https://github.com/daniielcg)">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
