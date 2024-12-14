@@ -37,7 +37,7 @@ A platform where book lovers can exchange books with features like:
 
 ---
 
-## 📬 How to Contact Me
+## How to Contact Me
 <div align="center">
   <a href="mailto:daniiellcg@gmail.com">
     <img src="https://img.shields.io/badge/-daniiellcg@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -49,12 +49,11 @@ A platform where book lovers can exchange books with features like:
 
 ---
 
-## 🧮 GitHub Stats
+## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniielcg&show_icons=true&theme=tokyonight&hide=stars" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniielcg&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daniielcg&show_icons=true&theme=tokyonight&hide=stars" alt="GitHub Stats" width="400" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniielcg&layout=compact&theme=tokyonight" alt="Top Langs" width="400" height="180"/>
 </div>
-
 
 ---
 
