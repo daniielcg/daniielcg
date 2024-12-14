@@ -44,7 +44,6 @@ A platform where book lovers can exchange books with features like:
 - **Interactive chat** between users.
 - **Ad management:** Create, edit, and remove posts easily.
 
-> *Still under development!*
 
 
 
@@ -78,10 +77,4 @@ A platform where book lovers can exchange books with features like:
 
 
 <br><br>
-
-
-
-
-**Thanks for visiting my profile!** 
-<p>Feel free to explore my projects or reach out to me.</p>
 
