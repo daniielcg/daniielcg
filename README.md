@@ -42,18 +42,19 @@ A platform where book lovers can exchange books with features like:
   <a href="mailto:daniiellcg@gmail.com">
     <img src="https://img.shields.io/badge/-daniiellcg@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="(https://github.com/daniielcg)">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<a href="https://github.com/danielcatgon04">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 </div>
 
 ---
 
 ## 🧮 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielcatgon04&show_icons=true&theme=tokyonight&hide=stars" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcatgon04&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daniielcg&show_icons=true&theme=tokyonight&hide=stars" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniielcg&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
+
 
 ---
 
