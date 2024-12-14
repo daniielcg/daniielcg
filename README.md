@@ -17,6 +17,8 @@
 <br><br>
 
 
+
+
 ## Technologies I Use
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
@@ -28,7 +30,10 @@
 </div>
 
 
+
 <br><br>
+
+
 
 
 ## Featured Projects
@@ -42,7 +47,10 @@ A platform where book lovers can exchange books with features like:
 > *Still under development!*
 
 
+
 <br><br>
+
+
 
 
 ## How to Contact Me
@@ -56,7 +64,10 @@ A platform where book lovers can exchange books with features like:
 </div>
 
 
+
 <br><br>
+
+
 
 
 ## GitHub Stats
@@ -65,7 +76,10 @@ A platform where book lovers can exchange books with features like:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniielcg&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
 </div>
 
+
 <br><br>
+
+
 
 
 **Thanks for visiting my profile!** 
