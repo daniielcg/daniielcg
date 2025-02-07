@@ -6,8 +6,8 @@
 
 <br><br>
 
-## About Me
-- **Cybersecurity Enthusiast**: Passionate about ethical hacking, penetration testing, and securing digital systems. I enjoy analyzing vulnerabilities and implementing strong security measures and always exploring new security tools, attack vectors, and best practices in cybersecurity to stay ahead of evolving threats.
+## About 
+Passionate about ethical hacking, penetration testing, and securing digital systems. I enjoy analyzing vulnerabilities and implementing strong security measures and always exploring new security tools, attack vectors, and best practices in cybersecurity to stay ahead of evolving threats.
 
 <br><br>
 
